@@ -5,6 +5,4 @@ def rand():
     print(greeting[number])
 rand()
 
-"""
-python is fun ngl
-"""
+
