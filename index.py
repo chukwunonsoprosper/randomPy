@@ -4,3 +4,7 @@ def rand():
     number = random.randrange(0, 5)
     print(greeting[number])
 rand()
+
+"""
+python is fun ngl
+"""
